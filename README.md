@@ -15,7 +15,8 @@ These repositories contain my personal solutions to 42 School projects. Each one
 
 The goal is to help others learn, reflect, and improve — not to encourage blind copying. Please take the time to understand the concepts, write your own code, and treat these solutions as a reference, not a shortcut.
 
-## Thank you
+## Your Thoughts Matter
 
-Don't be afraid to leave a comment or share suggestions about my code — I'm always open to feedback.
-If you find any of these helpful, please consider giving a ⭐
+Thanks for stopping by! If you have feedback, ideas or questions about the code, feel free to leave a comment — I genuinely appreciate thoughtful suggestions and collaboration.
+
+If you found this project helpful or interesting, a ⭐ would mean a lot!
