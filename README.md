@@ -1,11 +1,13 @@
 # Hello, World!
 
-## 42 School Projects (Intranet username: elopez-u)
+## 42 School Projects
+
+My intranet username is elopez-u.
 
 <a href="https://github.com/3ka1tz/libft">
-  <img src="https://raw.githubusercontent.com/3ka1tz/3ka1tz/main/libft.png"/>
+  <img src="https://raw.githubusercontent.com/3ka1tz/3ka1tz/main/images/libft.png"/>
 </a>
 
 <a href="https://github.com/3ka1tz/cpp">
-  <img src="https://raw.githubusercontent.com/3ka1tz/3ka1tz/main/cpp.png"/>
+  <img src="https://raw.githubusercontent.com/3ka1tz/3ka1tz/main/images/cpp.png"/>
 </a>
