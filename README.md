@@ -9,8 +9,13 @@ My intranet username is elopez-u.
 
 All badges were downloaded from https://github.com/ayogun/42-project-badges.
 
-## Disclaimer
+### Disclaimer
 
 These repositories contain my personal solutions to 42 School projects. Each one is written in my own style, with clean, well-commented code to make it easier to follow and understand.
 
 The goal is to help others learn, reflect, and improve — not to encourage blind copying. Please take the time to understand the concepts, write your own code, and treat these solutions as a reference, not a shortcut.
+
+## Thank you
+
+Don't be afraid to leave a comment or share suggestions about my code — I'm always open to feedback.
+If you find any of these helpful, please consider giving a ⭐
