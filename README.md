@@ -1,8 +1,6 @@
 # Hello, World!🌍
 
-Hi there!👋
-
-Welcome to my GitHub profile.
+Hi there! Welcome to my GitHub profile.
 
 Here, you'll find all of my coding projects: past, present, and future!
 
