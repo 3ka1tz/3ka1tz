@@ -1,10 +1,8 @@
-# Hello, World!🌍
+# Hello, World!
 
-Hi there! Welcome to my GitHub profile.
+Welcome to my GitHub profile.
 
-Here you'll find all of my coding projects: past, present, and future!
-
-Feel free to explore, fork, and connect.
+Here you can find all my coding projects: past, present, and future.
 
 ## Your Thoughts Matter
 
