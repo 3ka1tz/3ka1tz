@@ -1,4 +1,3 @@
-<!-- It belongs in a museum! -->
 # Hello, World!
 
 Welcome to my GitHub profile.
